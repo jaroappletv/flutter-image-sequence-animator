@@ -1,9 +1,8 @@
 # image_sequence_animator
 
 [comment]: <> (Badges)
-<a href="https://www.cosmossoftware.coffee">
-   <img alt="Cosmos Software" src="https://img.shields.io/badge/Cosmos%20Software-Love%20Code-red" />
-</a>
+<a href="
+
 
 [![Pub](https://img.shields.io/pub/v/image_sequence_animator?color=g)](https://pub.dev/packages/image_sequence_animator)
 [![License](https://img.shields.io/github/license/aliyigitbireroglu/flutter-image-sequence-animator?color=blue)](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator/blob/master/LICENSE)
